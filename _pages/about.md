@@ -1,19 +1,19 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computational Materials Scientist & Quantum Technology R&D Consultant
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: for-website-1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am primarily a Computational Materials Scientist working with first-principles electronic structure calculations and atomistic simulations. However, my interest varies
+from Physics to Quantum Biology. My primary area of research focuses on 2D materials, in particular, solid-gas and solid-liquid interfaces, MXenes and hybrid perovskites
+for various industry based applications. I am also working on development of quantum algorithms for identifying differential gene expressions in cancer transcriptomics.
+Recently, I have also started working on development of adaptive noise modelling for quantum error corrections in quantum computers.
